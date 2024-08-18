@@ -2,3 +2,8 @@
 <img width="282" alt="2" src="https://github.com/user-attachments/assets/bd838ad4-f82e-49a3-8fd1-af60f65c0846">
 <img width="277" alt="1" src="https://github.com/user-attachments/assets/530ce936-fc8b-4bed-abd6-a1b858fb2a15">
 <img width="281" alt="4" src="https://github.com/user-attachments/assets/57217c56-5293-4656-8f51-7dcae80d5882">
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=zongru666/matlab-training&type=Timeline)](https://star-history.com/#zongru666/matlab-training&Timeline)
